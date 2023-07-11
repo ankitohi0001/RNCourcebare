@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "RNCourcebare",
+    "slug": "RNCourcebare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
